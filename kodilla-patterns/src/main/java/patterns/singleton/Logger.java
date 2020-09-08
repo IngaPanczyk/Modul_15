@@ -4,6 +4,9 @@ public class Logger {
     private static Logger loggerSettings = null;
     private String lastLog = "";
 
+    private Logger (){
+    }
+
     public static Logger getInstance() {
         if (loggerSettings == null) {
             loggerSettings = new Logger();
