@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="factory.builder.bigmac.BigmacTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-10T18:57:15" hostname="DESKTOP-VUOAR0M" time="0.005">
+  <properties/>
+  <testcase name="testBigmacNew" classname="factory.builder.bigmac.BigmacTestSuite" time="0.005"/>
+  <system-out><![CDATA[Bigmac{bun='normal', burgers='2', sauce='Spicy', ingredients=[Onion, Ham, Mushrooms, Tomato]}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

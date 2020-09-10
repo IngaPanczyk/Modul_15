@@ -68,8 +68,8 @@ public class Bigmac {
     @Override
     public String toString() {
         return "Bigmac{" +
-                "bottom='" + bun + '\'' +
-                "burgers='" + burgers + '\'' +
+                "bun='" + bun + '\'' +
+                ", burgers='" + burgers + '\'' +
                 ", sauce='" + sauce + '\'' +
                 ", ingredients=" + ingredients +
                 '}';
