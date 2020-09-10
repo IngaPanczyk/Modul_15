@@ -23,6 +23,7 @@ public class TaskFactoryTestSuite {
         Assert.assertEquals(true, executeTask);
         Assert.assertEquals(true, isExecuted);
     }
+
     @Test
     public void testFactoryPainting() {
         //Given
