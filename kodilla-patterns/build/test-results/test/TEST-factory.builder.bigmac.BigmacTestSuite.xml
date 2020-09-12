@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="factory.builder.bigmac.BigmacTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-10T18:57:15" hostname="DESKTOP-VUOAR0M" time="0.005">
+<testsuite name="factory.builder.bigmac.BigmacTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-12T05:15:52" hostname="DESKTOP-VUOAR0M" time="0.007">
   <properties/>
-  <testcase name="testBigmacNew" classname="factory.builder.bigmac.BigmacTestSuite" time="0.005"/>
-  <system-out><![CDATA[Bigmac{bun='normal', burgers='2', sauce='Spicy', ingredients=[Onion, Ham, Mushrooms, Tomato]}
+  <testcase name="testBigmacNew" classname="factory.builder.bigmac.BigmacTestSuite" time="0.007"/>
+  <system-out><![CDATA[Bigmac{bun='patterns.builder.bigmac.Bun@614b6e37', burgers='2', sauce='BARBECUE', ingredients=[BECON, ONION, SALAD, PRAWNS]}
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

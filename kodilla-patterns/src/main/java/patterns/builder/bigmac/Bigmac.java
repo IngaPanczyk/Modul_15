@@ -6,18 +6,18 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Bigmac {
-    private final String bun;
+    private final Bun bun;
     private final int burgers;
-    private final String sauce;
-    private final List<String> ingredients;
+    private final Sauce sauce;
+    private final List<Ingredients> ingredients;
 
     public static class BigmacBulider {
-        private String bun;
+        private Bun bun;
         private int burgers;
-        private String sauce;
-        private List<String> ingredients = new ArrayList<>();
+        private Sauce sauce;
+        private List<Ingredients> ingredients = new ArrayList<>();
 
-        public BigmacBulider bun(String bun) {
+        public BigmacBulider bun(Bun bun) {
             this.bun = bun;
             return this;
         }
@@ -27,12 +27,12 @@ public class Bigmac {
             return this;
         }
 
-        public BigmacBulider sauce(String sauce) {
+        public BigmacBulider sauce(Sauce sauce) {
             this.sauce = sauce;
             return this;
         }
 
-        public BigmacBulider ingredient(String ingredient) {
+        public BigmacBulider ingredient(Ingredients ingredient) {
             ingredients.add(ingredient);
             return this;
         }
@@ -42,18 +42,18 @@ public class Bigmac {
         }
     }
 
-    public Bigmac(final String bun, final int burgers, final String sauce, final List<String> ingredients) {
+    public Bigmac(final Bun bun, final int burgers, final Sauce sauce, final List<Ingredients> ingredients) {
         this.bun = bun;
         this.burgers = burgers;
         this.sauce = sauce;
         this.ingredients = ingredients;
     }
 
-    public String getBun() {
+    public Bun getBun() {
         return bun;
     }
 
-    public String getSauce() {
+    public Sauce getSauce() {
         return sauce;
     }
 
@@ -61,7 +61,7 @@ public class Bigmac {
         return burgers;
     }
 
-    public List<String> getIngredients() {
+    public List<Ingredients> getIngredients() {
         return ingredients;
     }
 

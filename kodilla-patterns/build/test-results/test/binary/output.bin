@@ -1,1 +1,1 @@
-_Bigmac{bun='normal', burgers='2', sauce='Spicy', ingredients=[Onion, Ham, Mushrooms, Tomato]}
+~Bigmac{bun='patterns.builder.bigmac.Bun@614b6e37', burgers='2', sauce='BARBECUE', ingredients=[BECON, ONION, SALAD, PRAWNS]}
