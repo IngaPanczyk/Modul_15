@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="singleton.LoggerTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-18T12:04:40" hostname="DESKTOP-VUOAR0M" time="0.001">
+<testsuite name="singleton.LoggerTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-18T18:06:53" hostname="DESKTOP-VUOAR0M" time="0.002">
   <properties/>
-  <testcase name="testLog" classname="singleton.LoggerTestSuite" time="0.001"/>
+  <testcase name="testLog" classname="singleton.LoggerTestSuite" time="0.002"/>
   <testcase name="testGetLastLog" classname="singleton.LoggerTestSuite" time="0.0"/>
   <system-out><![CDATA[Log: [New log]
 The last log is: New log

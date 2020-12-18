@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="factory.ShapeFactoryTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-18T12:04:40" hostname="DESKTOP-VUOAR0M" time="0.003">
+<testsuite name="factory.ShapeFactoryTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-18T18:06:53" hostname="DESKTOP-VUOAR0M" time="0.005">
   <properties/>
-  <testcase name="testFactoryCircle" classname="factory.ShapeFactoryTestSuite" time="0.001"/>
-  <testcase name="testFactorySquare" classname="factory.ShapeFactoryTestSuite" time="0.001"/>
-  <testcase name="testFactoryRectangle" classname="factory.ShapeFactoryTestSuite" time="0.0"/>
+  <testcase name="testFactoryCircle" classname="factory.ShapeFactoryTestSuite" time="0.002"/>
+  <testcase name="testFactorySquare" classname="factory.ShapeFactoryTestSuite" time="0.002"/>
+  <testcase name="testFactoryRectangle" classname="factory.ShapeFactoryTestSuite" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

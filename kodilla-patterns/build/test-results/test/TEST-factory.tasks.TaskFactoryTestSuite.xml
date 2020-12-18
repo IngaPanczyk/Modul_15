@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="factory.tasks.TaskFactoryTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-18T12:04:40" hostname="DESKTOP-VUOAR0M" time="0.006">
+<testsuite name="factory.tasks.TaskFactoryTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-18T18:06:53" hostname="DESKTOP-VUOAR0M" time="0.007">
   <properties/>
   <testcase name="testFactoryPainting" classname="factory.tasks.TaskFactoryTestSuite" time="0.003"/>
   <testcase name="testFactoryDriving" classname="factory.tasks.TaskFactoryTestSuite" time="0.002"/>
-  <testcase name="testFactoryShopping" classname="factory.tasks.TaskFactoryTestSuite" time="0.001"/>
+  <testcase name="testFactoryShopping" classname="factory.tasks.TaskFactoryTestSuite" time="0.002"/>
   <system-out><![CDATA[Task is not executed
 The task was done
 Task is executed
