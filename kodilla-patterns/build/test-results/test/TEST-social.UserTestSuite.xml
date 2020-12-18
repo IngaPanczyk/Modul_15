@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="social.UserTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-18T12:04:40" hostname="DESKTOP-VUOAR0M" time="0.002">
+  <properties/>
+  <testcase name="testDefaultSharingStrategies" classname="social.UserTestSuite" time="0.001"/>
+  <testcase name="testIndividualSharingStrategy" classname="social.UserTestSuite" time="0.001"/>
+  <system-out><![CDATA[User 1 use: Facebook
+User 2 use: Snapchat
+User 3 use: Twitter
+User 1 use: Facebook
+User 1 use: Snapchat
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

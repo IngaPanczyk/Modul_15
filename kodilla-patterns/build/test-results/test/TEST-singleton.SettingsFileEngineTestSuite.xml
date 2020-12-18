@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="singleton.SettingsFileEngineTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-18T12:04:40" hostname="DESKTOP-VUOAR0M" time="0.002">
+  <properties/>
+  <testcase name="testSaveSettings" classname="singleton.SettingsFileEngineTestSuite" time="0.001"/>
+  <testcase name="testLoadSettings" classname="singleton.SettingsFileEngineTestSuite" time="0.0"/>
+  <testcase name="testGetFileName" classname="singleton.SettingsFileEngineTestSuite" time="0.001"/>
+  <system-out><![CDATA[Opening the settings file
+Saving settings to file
+Loading settings from file
+Opened: myapp.settings
+Closing the settings file
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
