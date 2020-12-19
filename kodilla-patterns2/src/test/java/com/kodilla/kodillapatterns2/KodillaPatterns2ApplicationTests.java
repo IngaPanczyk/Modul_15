@@ -1,5 +1,8 @@
 package com.kodilla.kodillapatterns2;
 
+import com.kodilla.kodillapatterns2.decorator.taxiportal.BasicTaxiOrder;
+import com.kodilla.kodillapatterns2.decorator.taxiportal.TaxiNetworkOrderDecorator;
+import com.kodilla.kodillapatterns2.decorator.taxiportal.TaxiOrder;
 import com.kodilla.kodillapatterns2.facade.ShopService;
 import com.kodilla.kodillapatterns2.facade.api.ItemDto;
 import com.kodilla.kodillapatterns2.facade.api.OrderDto;
@@ -12,6 +15,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import java.math.BigDecimal;
+
+import static org.junit.Assert.assertEquals;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -83,5 +88,4 @@ class KodillaPatterns2ApplicationTests {
             //business exception
         }
     }
-
 }

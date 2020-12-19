@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="singleton.SettingsFileEngineTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-18T18:06:53" hostname="DESKTOP-VUOAR0M" time="0.001">
+<testsuite name="singleton.SettingsFileEngineTestSuite" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-12-19T20:24:36" hostname="DESKTOP-VUOAR0M" time="0.002">
   <properties/>
   <testcase name="testSaveSettings" classname="singleton.SettingsFileEngineTestSuite" time="0.0"/>
   <testcase name="testLoadSettings" classname="singleton.SettingsFileEngineTestSuite" time="0.0"/>

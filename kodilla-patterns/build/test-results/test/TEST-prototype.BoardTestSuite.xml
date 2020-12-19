@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="prototype.BoardTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-18T18:06:53" hostname="DESKTOP-VUOAR0M" time="0.007">
+<testsuite name="prototype.BoardTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-19T20:24:36" hostname="DESKTOP-VUOAR0M" time="0.005">
   <properties/>
-  <testcase name="testToString" classname="prototype.BoardTestSuite" time="0.007"/>
+  <testcase name="testToString" classname="prototype.BoardTestSuite" time="0.005"/>
   <system-out><![CDATA[Board [Project number 1]
    List [In Progress Tasks]
       Task [In Progress Task number 1]
