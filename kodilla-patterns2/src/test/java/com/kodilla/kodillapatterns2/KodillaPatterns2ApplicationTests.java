@@ -1,8 +1,5 @@
 package com.kodilla.kodillapatterns2;
 
-import com.kodilla.kodillapatterns2.decorator.taxiportal.BasicTaxiOrder;
-import com.kodilla.kodillapatterns2.decorator.taxiportal.TaxiNetworkOrderDecorator;
-import com.kodilla.kodillapatterns2.decorator.taxiportal.TaxiOrder;
 import com.kodilla.kodillapatterns2.facade.ShopService;
 import com.kodilla.kodillapatterns2.facade.api.ItemDto;
 import com.kodilla.kodillapatterns2.facade.api.OrderDto;
