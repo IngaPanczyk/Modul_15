@@ -1,6 +1,5 @@
 package com.kodilla.kodillapatterns2.facade.api;
 
-import com.kodilla.kodillapatterns2.aop.calculator.Watcher;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.slf4j.Logger;
