@@ -8,8 +8,8 @@ public class StudentHomeworkTest {
     @Test
     public void testUpdate() {
         //Given
-        StudentHomework janNowakHomework = new JanNowakHomework("Jan Nowak");
-        StudentHomework annaKwiatkowskaHomework = new JanNowakHomework("Anna Kwiatkowska");
+        StudentHomework janNowakHomework = new JanNowakHomework();
+        StudentHomework annaKwiatkowskaHomework = new JanNowakHomework();
         Mentor karolKwiatkowskiMentor = new KarolKwiatkowskiMentor("Karol Kwiatkowski");
         janNowakHomework.registerObserver(karolKwiatkowskiMentor);
         annaKwiatkowskaHomework.registerObserver(karolKwiatkowskiMentor);
