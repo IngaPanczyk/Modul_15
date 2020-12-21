@@ -10,7 +10,7 @@ public class StudentHomeworkTest {
         //Given
         StudentHomework janNowakHomework = new JanNowakHomework();
         StudentHomework annaKwiatkowskaHomework = new JanNowakHomework();
-        Mentor karolKwiatkowskiMentor = new KarolKwiatkowskiMentor("Karol Kwiatkowski");
+        Mentor karolKwiatkowskiMentor = new KarolKwiatkowskiMentor();
         janNowakHomework.registerObserver(karolKwiatkowskiMentor);
         annaKwiatkowskaHomework.registerObserver(karolKwiatkowskiMentor);
         //When
