@@ -5,7 +5,6 @@ import com.kodilla.kodillapatterns2.adapter.bookclasifier.libraryb.BookSignature
 import com.kodilla.kodillapatterns2.adapter.bookclasifier.libraryb.BookStatistics;
 import com.kodilla.kodillapatterns2.adapter.bookclasifier.libraryb.Statistics;
 
-import java.util.Arrays;
 import java.util.Map;
 
 public class MedianAdaptee implements BookStatistics {
